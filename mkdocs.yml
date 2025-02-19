@@ -2,3 +2,16 @@ site_name: My docs
 nav:
   - Home: index.md
   - About: about.md
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: light-green
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo:
+    icon: home
+    href: index.md
+  favicon: favicon.ico
+  search: true
