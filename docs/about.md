@@ -1,5 +1,3 @@
 # About
 
-Hey I'm Taha.
-
-Working as a DWH Developer, BI Specialist.
+Hey, I'm Taha. DWH Developer, BI Specialist.
