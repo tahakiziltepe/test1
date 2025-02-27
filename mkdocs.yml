@@ -6,6 +6,9 @@ nav:
   - Articles: articles.md
 theme:
   name: material
+  icon:
+    logo: material/brush
+    favicon: material/brush
   palette:
     - scheme: slate
       toggle:
