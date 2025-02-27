@@ -1,7 +1,9 @@
-site_name: My docs
+site_name: Taha
 nav:
   - Home: index.md
   - About: about.md
+  - Projects: projects.md
+  - Articles: articles.md
 theme:
   name: material
   palette:
